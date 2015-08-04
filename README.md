@@ -4,7 +4,7 @@ A. General Description
 
 The Harmony Progression Analyser (HPA) is a key, chord and bass simultaneous estimation system that purely relies on machine learning techniques. It also uses a novel choromagram extraction (namely loudness based chromagram) method, which is inspired by loudness perception studies. Compared with other audio chord estimation (ACE) systems, HPA is fast and memory-efficient, achieving an excellent tradeoff between performance and memory and time efﬁciencies.
 
-The release is the Vamp Plugin of the HPA system (Win32/Linux32/Linux64/Mac versions). The plugin has a user friendly interface and it targets on musicians who are less experienced with additional run-time library installation. If you would like to use BATCH PROCESSING for a set of audio files, try our plugins on SONIC ANNOTATOR (http://www.omras2.org/SonicAnnotator).
+The release is the HPA vamp plugin (Win32/Linux32/Linux64/Mac versions) for Sonic Visualiser (http://www.sonicvisualiser.org/). The plugin has a user friendly interface and it targets on musicians who are less experienced with additional run-time library installation. If you would like to use BATCH PROCESSING for a set of audio files, try our plugins on SONIC ANNOTATOR (http://www.omras2.org/SonicAnnotator).
 
 For more details, the readers are referred to the following papers: 
 
