@@ -28,19 +28,7 @@ This work is funded by the EPSRC grant (EP/G056447/1) and the PASCAL2 EU Network
 
 C. Contact 
 
-For any problem w.r.t. this plugin, please contact
-
----------------------------------------------
-Yizhao Ni, PhD (Ni)
-
-Department of Biomedical Informatics
-
-Cincinnati Children's Hospital Medical Center
-
-3333 Burnet Ave, Cincinnati, OH, 45219
-
-yizhao.ni@cchmc.org
----------------------------------------------
+For any problem w.r.t. this plugin, please contact Yizhao.Ni@googlemail.com.
 
 D. Reference
 
