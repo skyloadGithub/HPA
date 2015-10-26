@@ -45,7 +45,6 @@ D. Reference
 Harmony_Progression_Analyzer_Toolbox_ver1.2.zip is the Matlab version of HPA. Since the software package is coded in Matlab, the user needs Matlab2008b or higher versions to run the program. The user can still run the system using old Matlab versions, but he/she may encounter warnings since the program uses containers.Map().
 
 If the system is running on an Apple Macintosh computer, the user needs to run the script "code_compile_shell.m" first to compile the following Mex functions:
-
     ./Feature_extraction/HPSS_innerLoop.c
     ./HMM_model/bass_viterbiDecoder_c.c
     ./HMM_model/bass_viterbiDecoder_var_c.c
